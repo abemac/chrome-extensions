@@ -1,7 +1,5 @@
-var count=0;
-window.onkeyup = function(e){
-
-  var key = e.keyCode? e.keyCode:e.which;
-  count++;
-
-}
+var count=20;
+// window.addEventListener('keydown',function(event){
+//     count++;
+//     count=count+1;
+// },false);
