@@ -3,7 +3,7 @@ var spaceCount=0;
 var wordTyped=false;
 var lastTime=new Date();
 var elapsedTime=0;
-var bufferTime = 2000;
+var bufferTime = 1000;
 
 chrome.runtime.onMessage.addListener(
   function(request,sender,sendResponse){
