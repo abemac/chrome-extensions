@@ -3,4 +3,4 @@ function doStuff() {
   document.getElementById("numkeys").innerHTML=chrome.extension.getBackgroundPage().count;
 }
 
-document.addEventListener('DOMContentLoaded',doStuff());
+document.addEventListener('DOMContentLoaded',function(){doStuff();});
