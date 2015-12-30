@@ -1,3 +1,5 @@
 window.onkeydown=function(e){
-    window.alert("test");
+    chrome.runtime.sendMessage({greeting:"keyPressed"},function(response){
+      console.log(response.farewell);
+    });
 }
