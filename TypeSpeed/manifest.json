@@ -12,8 +12,15 @@
 		"page":"background.html",
 		"persistent":true
 	},
+	"content_scripts":[
+		{
+			"matches":["<all_urls>"],
+			"js":["content.js"],
+			"all_frames":true
+		}
+	],
 	"permissions": [
 		"activeTab",
-		"input"
+		"tabs"
 	]
 }
