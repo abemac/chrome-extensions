@@ -30,6 +30,3 @@ chrome.runtime.onMessage.addListener(
     }
   }
 );
-
-
-function countUp(){count++;}
