@@ -2,5 +2,6 @@ Colored-tabs
 How fast are you typing
 Transparent Windows
 Different notes when you type
+Random Facts
 
 http://code.tutsplus.com/tutorials/developing-google-chrome-extensions--net-33076
