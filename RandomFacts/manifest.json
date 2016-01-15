@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "MultiSearch",
-  "description": "Different Google Searches in one extension",
-  "version": "1.0",
+  "name": "RandomFacts",
+  "description": "Generates random Google Facts for your entertainment",
+  "version": "0.1",
 
   "browser_action": {
     "default_icon": "icon.png",
