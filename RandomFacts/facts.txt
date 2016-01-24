@@ -1,0 +1,3 @@
+"Morgan Freeman was born in Memphis, Tennessee, on June 1, 1937.", morgan freeman, celebrity, birthday
+"Google was founded by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University on September 4, 1998.", google, stanford, larry page, sergey brin, company
+"The koala is found in coastal areas of the mainland's eastern and southern regions, inhabiting Queensland, New South Wales, Victoria, and South Australia.", koala, habitat 
